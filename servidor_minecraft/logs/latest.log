@@ -58,3 +58,18 @@
 [22:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (12.308s)! For help, type "help"
 [22:00:03] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Successfully initialized permission handler forge:default_handler
 [22:00:03] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Forwarding forge permission[forge:default_handler] to bukkit[mohist:permission]
+[22:37:29] [User Authenticator #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: UUID of player zPushMC is 8cb402f1-4b8c-31f0-8164-ac159f773e43
+[22:37:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: zPushMC joined the game
+[22:37:36] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: zPushMC[/127.71.2.188:60893] logged in with entity id 87 at ([world]-37.5, 69.0, -116.5)
+[22:41:42] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: zPushMC lost connection: Disconnected
+[22:41:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: zPushMC left the game
+[22:44:55] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: UUID of player zPushMC is 8cb402f1-4b8c-31f0-8164-ac159f773e43
+[22:44:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: zPushMC joined the game
+[22:44:59] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: zPushMC[/127.71.2.188:46397] logged in with entity id 929 at ([world]-26.69999998807907, 66.0, -112.14849118304207)
+[22:45:25] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: zPushMC lost connection: Disconnected
+[22:45:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: zPushMC left the game
+[22:47:21] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: UUID of player zPushMC is 8cb402f1-4b8c-31f0-8164-ac159f773e43
+[22:47:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: zPushMC joined the game
+[22:47:26] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: zPushMC[/127.71.2.188:34659] logged in with entity id 1034 at ([world]-31.885025923418446, 68.0, -115.46916339301204)
+[22:48:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: zPushMC lost connection: Disconnected
+[22:48:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: zPushMC left the game
