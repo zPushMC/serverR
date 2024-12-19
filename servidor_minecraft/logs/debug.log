@@ -598,3 +598,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22:00:03] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer]: Transforming net/minecraft/world/level/NaturalSpawner
 [22:05:03] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: Gathering id map for writing to world save world
 [22:05:03] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: ID Map collection complete world
+[22:10:03] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: Gathering id map for writing to world save world
+[22:10:03] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: ID Map collection complete world
+[22:13:08] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[22:13:08] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler]: -Dio.netty.recycler.ratio: 8
+[22:13:08] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler]: -Dio.netty.recycler.chunkSize: 32
+[22:13:08] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler]: -Dio.netty.recycler.blocking: false
+[22:13:08] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler]: -Dio.netty.recycler.batchFastThreadLocalOnly: true
+[22:15:03] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: Gathering id map for writing to world save world
+[22:15:03] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks]: ID Map collection complete world
